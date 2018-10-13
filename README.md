@@ -1,2 +1,3 @@
 # Delicion
-Retro addictive game
+Retro addictive game.
+For download visit: 
